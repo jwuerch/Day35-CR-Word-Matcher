@@ -1,17 +1,39 @@
-# Readme File
+# String Matcher
 
-## About The Author
+#### _Checks how many times a word appears in a string_
 
-The author is Jason Wuerch. He is currently located in Portland, Oregon as an up-and-coming programmer.
-
-## String Checker
-
-This project was made at Epicodus Coding School and is the second project of week 2 for the PHP class.
+#### By _**Jason Wuerch**_
 
 ## Description
 
-This project allows you to check how many times a word appears in a phrase. Both are inputted by the user.
+_This web app will give the user the ability to check how many times a specific word appears in a sentence._
 
-## Copyright and License Information
+## Setup/Installation Requirements
 
-This project is copyrighted by Jason Wuerch. Please ask for permission to use.
+* _Clone the Repository_
+* _In your terminal, navigate to the project's main folder and run `composer install` to get Silex, Twig, and PHPUnit installed._
+* _Navigate to the project's web folder using terminal and enter `php -S localhost:8000`_
+* _In your web browser enter localhost:8000 to view the web app._
+
+## Known Bugs
+
+*None
+
+## Support and contact details
+
+_Please contact us through GitHub with any questions, comments, or concerns._
+
+## Technologies Used
+
+* _Composer_
+* _Twig_
+* _Silex_
+* _PHPUnit_
+* _PHP_
+* _Bootstrap_
+
+### License
+
+**This software is licensed under the MIT license.**
+
+Copyright (c) 2016 **_Jason Wuerch_**
